@@ -11,11 +11,11 @@ Software yang di butuhkan
   <li> Web Browser </li>
   <li> Code Editor </li>
   <li> VSCode Extension </li>
-  <li> [------------------------] </li>
-  <li> Tailwind CSS IntelliSense </li>
-  <li> Live Preview </li>
-  <li> Post CSS Language Support </li>
-  <li> [------------------------] </li>
+    <li> [------------------------] </li>
+    <li> Tailwind CSS IntelliSense </li>
+    <li> Live Preview </li>
+    <li> Post CSS Language Support </li>
+    <li> [------------------------] </li>
   <li> NPM (Node.js) </li>
   <li> Terminal </li>
 </ul>
