@@ -50,4 +50,4 @@ Konfigurasi TailwindCSS
 - Hubungkan index.html anda ke output.css
 - Done happy hacking
   
-  
+<img src="https://commons.wikimedia.org/wiki/File:Tailwind_CSS_logo.svg"/>  
