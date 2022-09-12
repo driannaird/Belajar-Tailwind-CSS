@@ -26,7 +26,7 @@ Cara instalasi menggunakan NPM
 </ul>
 
 #index
-content: ['./**/*.{html, js}']
+content: [ './**/*.{html, js}' ]
 <ul>
   <li> ./ (folder root) </li>
   <li> ** (mengecek semua folder yang ada didalamnya) </li>
@@ -35,6 +35,14 @@ content: ['./**/*.{html, js}']
 </ul>
 
 Konfigurasi TailwindCSS
-<ul>
+- Tambahkan sebuah Tailwind directives ke CSS kita, tambahkan @tailwind directives untuk setiap lapisan Tailwind ke file CSS utama Anda.
+  example: buat di src/input.css
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+- Mulai untuk building Tailwind CSS
+  Jalankan alat CLI untuk memindai file template Anda untuk kelas dan membangun CSS Anda.
+  npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+- Done happy hacking
   
   
