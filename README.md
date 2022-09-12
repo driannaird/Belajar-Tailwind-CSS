@@ -4,7 +4,7 @@ Tailwind CSS adalah kerangka kerja CSS sumber terbuka. Fitur utama dari library 
 
 <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" >
 
-<a src="https://tailwindcss.com/">Buka Website Tailwind CSS</a>
+<a href="https://tailwindcss.com/">Buka Website Tailwind CSS</a>
 
 Software yang di butuhkan
 <ul>
