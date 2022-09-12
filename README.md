@@ -40,13 +40,13 @@ content: [ './**/*.{html, js}' ]
 
 Konfigurasi TailwindCSS
 - Tambahkan sebuah Tailwind directives ke CSS kita, tambahkan @tailwind directives untuk setiap lapisan Tailwind ke file CSS utama Anda.
-  example: buat di src/input.css
-  @tailwind base;
-  @tailwind components;
-  @tailwind utilities;
+  </br>example: buat di src/input.css
+  </br>@tailwind base;
+  </br>@tailwind components;
+  </br>@tailwind utilities;
 - Mulai untuk building Tailwind CSS
   Jalankan alat CLI untuk memindai file template Anda untuk kelas dan membangun CSS Anda.
-  npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+  </br>npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
 - Hubungkan index.html anda ke output.css
 - Done happy hacking
   
