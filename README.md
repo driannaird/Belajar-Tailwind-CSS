@@ -1,4 +1,4 @@
-# Belajar-Tailwind-CSS
+# Belajar-Tailwind-CSS arsip
 
 Tailwind CSS adalah kerangka kerja CSS sumber terbuka. Fitur utama dari library ini adalah, tidak seperti framework CSS lainnya seperti Bootstrap, library ini tidak menyediakan serangkaian kelas standar untuk elemen seperti tombol atau tabel.
 
